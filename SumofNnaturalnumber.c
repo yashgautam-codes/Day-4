@@ -1,3 +1,5 @@
+// Q8. Write  a program to find & display sum of first 'N' natural number's. 
+
 #include <stdio.h>
 int main()
 {
